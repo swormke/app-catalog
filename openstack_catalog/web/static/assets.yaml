@@ -3032,7 +3032,7 @@
           BIG-IP Virtual Edition (VE) and configure it with two interfaces.
           In this deployment, generally referred to as 'single-arm', it is
           assumed that one interface will be used for management of the BIG-IP
-          VE, while the other two will be used for load balancing or other
+          VE, while the other will be used for load balancing or other
           traffic. Use of this template requires an existing VE glance image
           that has been properly onboarded.
           To onboard an image see our F5 BIG-IP VE Onboard HOT template in the
